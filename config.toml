@@ -1,3 +1,26 @@
-baseURL = "http://example.org/"
+
+
+
+baseURL = "https://last-dragon-ultra.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "last dragon ultra"
+theme = "dimension"
+
+[params]
+    author = "Dmitry Pechnikov"
+    copyrightPublishYear = "2018"
+    copyrightText = "<a href=\"https://dmitrypechnikov.xyz\">Dmitry Pechnikov</a>"
+    disableLogo = false
+    logoImage = "images/dragon.svg"
+    logoIcon = "dragon"
+  description = 'aaaaa  <br><a href="#" class="icon fa-facebook-square"><span class="label">facebook</span></a>  <a href="#" class="icon fa-instagram"><span class="label">facebook</span></a>'
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
