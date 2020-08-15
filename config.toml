@@ -1,7 +1,7 @@
 
 
 
-baseURL = "https://last-dragon-ultra.app/"
+baseURL = "https://last-dragon-ultra.netlify.app"
 languageCode = "en-us"
 title = "last dragon ultra"
 theme = "dimension"
