@@ -1,13 +1,32 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   
-  <url><loc>http://example.org/categories
-    </loc></url>
+  <url>
+    <loc>https://last-dragon-ultra.netlify.app/#about</loc>
+  </url>
   
-  <url><loc>http://example.org
-    </loc></url>
+  <url>
+    <loc>https://last-dragon-ultra.netlify.app/#</loc>
+  </url>
   
-  <url><loc>http://example.org/tags
-    </loc></url>
+  <url>
+    <loc>https://last-dragon-ultra.netlify.app/#repo</loc>
+  </url>
+  
+  <url>
+    <loc>https://last-dragon-ultra.netlify.app/#gallery</loc>
+  </url>
+  
+  <url>
+    <loc>https://last-dragon-ultra.netlify.app/#</loc>
+  </url>
+  
+  <url>
+    <loc>https://last-dragon-ultra.netlify.app/#rule</loc>
+  </url>
+  
+  <url>
+    <loc>https://last-dragon-ultra.netlify.app/#</loc>
+  </url>
   
 </urlset>
