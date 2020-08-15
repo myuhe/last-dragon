@@ -7,12 +7,14 @@ title = "last dragon ultra"
 theme = "dimension"
 
 [params]
+    title = "last dragon ultra"
     author = "Dmitry Pechnikov"
     copyrightPublishYear = "2018"
     copyrightText = "<a href=\"https://dmitrypechnikov.xyz\">Dmitry Pechnikov</a>"
     disableLogo = false
     logoImage = "images/dragon.svg"
     image = "images/bg.jpg"
+    images = ["images/bg.jpg"]
     facebookAppId = "4361252040581703"
     logoIcon = "dragon"
   description = '<a href="https://www.facebook.com/last.dragon.ultra/" class="icon fa-facebook-square"><span class="label">facebook</span></a>  <a href="https://www.instagram.com/last.dragon.ultra/" class="icon fa-instagram"><span class="label">facebook</span></a>'
