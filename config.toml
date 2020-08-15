@@ -12,15 +12,19 @@ theme = "dimension"
     copyrightText = "<a href=\"https://dmitrypechnikov.xyz\">Dmitry Pechnikov</a>"
     disableLogo = false
     logoImage = "images/dragon.svg"
+    image = "images/bg.jpg"
+    facebookAppId = "4361252040581703"
     logoIcon = "dragon"
-  description = 'aaaaa  <br><a href="#" class="icon fa-facebook-square"><span class="label">facebook</span></a>  <a href="#" class="icon fa-instagram"><span class="label">facebook</span></a>'
+  description = '<a href="https://www.facebook.com/last.dragon.ultra/" class="icon fa-facebook-square"><span class="label">facebook</span></a>  <a href="https://www.instagram.com/last.dragon.ultra/" class="icon fa-instagram"><span class="label">facebook</span></a>'
 
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/last.dragon.ultra/"
 
 [[params.social]]
   medium = "instagram"
   icon = "instagram"
-  link = "#"
+  link = "https://www.instagram.com/last.dragon.ultra/"
+
+

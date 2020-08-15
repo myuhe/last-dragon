@@ -1,5 +1,5 @@
 ---
-title: about
+title: course
 ---
 
 ### 準備中  ###
