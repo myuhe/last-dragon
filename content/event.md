@@ -53,7 +53,9 @@ title: event
   [エントリーフォーム](https://forms.gle/6ScqKrBQXdCGzGgw8)に必要事項を入力し以下の口座に参加費を振りこんでいただきますようお願いします。
   
 肥後銀行 県庁支店 
+
 店番号 159 口座番号 1665936
+
 口座名義人 Last Dragon Ultra (ラスト ドラゴン ウルトラ)
   
 
