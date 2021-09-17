@@ -93,7 +93,7 @@ title: event
   
   * 大会中止の判断は、前日の午後２時までにfacebook等で行います。
   
-
+[参加案内](https://drive.google.com/file/d/15WAMzPYeEoVkx2P5USMYNclanZMi1B_u/view)
 
 
 {{< socialLinks >}}
