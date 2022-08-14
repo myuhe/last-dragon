@@ -2,6 +2,8 @@
 title: Result
 ---
 
+Last Dragon Ultra 2nd
+
 |No|氏名|Lap|順位|
 |:---:|:---:|:---:|:---:|
 |1|河村 剛|8|DNF|

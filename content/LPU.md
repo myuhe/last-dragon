@@ -5,7 +5,7 @@ title: Last Park Ultra
 # Last Park Ultra 開催要領
 
 ## 開催日時
-2022年9月5日 午前6時
+2022年9月4日 午前6時
     
 ## スケジュール
     5:30 受付開始
@@ -14,7 +14,7 @@ title: Last Park Ultra
 
 ## 集合場所
 
-[神園山登山口](https://goo.gl/maps/qNRtwkmvJsoDXcaw9)
+[神園山東散策路入口](https://goo.gl/maps/qNRtwkmvJsoDXcaw9)
 
 ## 参加費
 
