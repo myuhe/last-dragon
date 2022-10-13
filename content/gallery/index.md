@@ -6,7 +6,7 @@ title: gallery
 
 [Last Dragon Ultra 2nd 中嶋さん](https://photos.app.goo.gl/8fvWWD1C7Mxjeddi8)
 
-[Last Dragon Ultra 2nd 中嶋さん](https://photos.app.goo.gl/zKpD8Mj8JAPyNEFDA)
+[Last Dragon Ultra 3rd 中嶋さん](https://photos.app.goo.gl/zKpD8Mj8JAPyNEFDA)
 
 {{< image w="300" src="1.jpg"  >}}
 {{< image w="300" src="2.jpg"  >}}
