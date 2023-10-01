@@ -1,5 +1,5 @@
 ---
-title: Result
+title: 1th_result
 ---
 
 Last Dragon Ultra 2nd
