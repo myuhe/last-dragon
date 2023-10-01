@@ -59,7 +59,7 @@ title: Last Dragon Ultra 4th
 応募人数が定員になった時点で募集を締め切らせていただきます。
     
 ## コース
-[Google map](https://www.google.com/maps/d/edit?mid=10BaGRSjuZK3TgUh9sbqp1XCZasRF8kdT&usp=sharing)
+[Google map](https://www.google.com/maps/d/edit?mid=17TZWQcUqX3NPouXZOEPddn1XBUEL-5w&usp=sharing)
 
 コースは全てアスファルトで舗装されています。
 
