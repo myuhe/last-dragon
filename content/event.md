@@ -1,11 +1,11 @@
 ---
-title: Last Dragon Ultra 3rd
+title: Last Dragon Ultra 4th
 ---
 
 # Last Dragon Ultra 3rd 開催要領
 
 ## 開催日時
-2022年10月8日 午前10時
+2023年10月7日 午前10時
     
 ## スケジュール
     8:30 受付開始
@@ -54,7 +54,7 @@ title: Last Dragon Ultra 3rd
   
 ## 募集締切
 
-2022年9月26日
+2023年9月28日
 
 応募人数が定員になった時点で募集を締め切らせていただきます。
     
