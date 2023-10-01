@@ -1,8 +1,8 @@
 ---
-title: 2nd result
+title: 3rd result
 ---
 
-Last Dragon Ultra 2nd
+Last Dragon Ultra 3rd
 
 |No|氏名|Lap|順位|
 |:---:|:---:|:---:|:---:|
