@@ -63,7 +63,7 @@ title: Last Dragon Ultra 4th
 
 ## ルール
 
-[ルール]({{< relref "rule.md" >}}) 
+[ルール]({{< relref "#rule" >}}) 
 
 ##注意事項
 
