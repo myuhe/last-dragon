@@ -1,8 +1,8 @@
 ---
-title: gallery
+title: result
 ---
 
-[ルール]({{< relref "#1st_Result.md" >}}) 
+[Last Dragon Ultra 1st]({{< relref "#1st_Result.md" >}}) 
 
 {{< socialLinks >}}
 
