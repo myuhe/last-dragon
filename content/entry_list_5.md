@@ -1,8 +1,8 @@
 ---
-title: Entry List
+title: 5th Entry List
 ---
 
-Last Dragon Ultra 4th
+Last Dragon Ultra 5th Entry List
 
  | 氏  名 |
  | --- |
